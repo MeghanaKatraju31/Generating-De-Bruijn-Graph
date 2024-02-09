@@ -1,0 +1,7 @@
+tc
+gt
+gc
+ag
+cg
+ac
+ga
